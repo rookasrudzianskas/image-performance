@@ -1,0 +1,100 @@
+{
+  "id": "1",
+  "image": "avatars/vadim.png",
+  "backgroundImage": "images/1.jpg",
+  "bio": "Helping developers build impactful mobile apps! • 🚀 76k+ on YouTube #notJustDev 📈 • Follow me for value-packed dev content 💡",
+  "followedBy": [
+    {
+      "image": "high-res/drake.jpg"
+    },
+    {
+      "image": "high-res/elon.png"
+    },
+    {
+      "image": "high-res/gates.jpeg"
+    },
+    {
+      "image": "high-res/hormozi.jpg"
+    },
+    {
+      "image": "high-res/zuck.jpeg"
+    }
+  ],
+  "posts": [
+    {
+      "image": "high-res/1.jpg"
+    },
+    {
+      "image": "high-res/2.jpg"
+    },
+    {
+      "image": "high-res/3.jpg"
+    },
+    {
+      "image": "high-res/4.jpg"
+    },
+    {
+      "image": "high-res/5.jpg"
+    },
+    {
+      "image": "high-res/6.jpg"
+    },
+    {
+      "image": "high-res/7.jpg"
+    },
+    {
+      "image": "high-res/8.jpg"
+    },
+    {
+      "image": "high-res/9.JPG"
+    },
+    {
+      "image": "high-res/10.jpg"
+    },
+    {
+      "image": "high-res/11.jpg"
+    },
+    {
+      "image": "high-res/12.jpg"
+    },
+    {
+      "image": "high-res/13.jpg"
+    },
+    {
+      "image": "high-res/14.jpg"
+    },
+    {
+      "image": "high-res/15.jpg"
+    },
+    {
+      "image": "high-res/16.jpg"
+    },
+    {
+      "image": "high-res/17.jpg"
+    },
+    {
+      "image": "high-res/18.jpg"
+    },
+    {
+      "image": "high-res/19.jpg"
+    },
+    {
+      "image": "high-res/20.jpg"
+    },
+    {
+      "image": "high-res/21.jpg"
+    },
+    {
+      "image": "high-res/22.jpg"
+    },
+    {
+      "image": "high-res/23.jpg"
+    },
+    {
+      "image": "high-res/24.jpg"
+    },
+    {
+      "image": "high-res/25.jpg"
+    }
+  ]
+}
