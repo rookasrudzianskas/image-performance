@@ -8,15 +8,15 @@ type SmartImageProps = {
   height?: number;
 } & Omit<ComponentProps<typeof Image>, 'source'>;
 
-const bucket = '';
-const URL = '';
+const bucket = 'rokas-dummy-images';
+const URL = 'https://d19658mtcx1ah3.cloudfront.net/';
 
 const SmartImage = ({
-                      imgKey,
-                      width,
-                      height,
-                      ...imageProps
-                    }: SmartImageProps) => {
+  imgKey,
+  width,
+  height,
+  ...imageProps
+}: SmartImageProps) => {
   const uri = useMemo(() => {
     const imageRequest = JSON.stringify({
       bucket,

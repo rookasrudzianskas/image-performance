@@ -2,21 +2,27 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, FlatList } from 'react-native';
 import user from './user.json';
 import S3Image from './components/S3Image';
+import SmartImage from "./components/SmartImage";
+
+
+const Image = SmartImage;
 
 const Header = () => (
   <>
-    <S3Image imgKey={user.backgroundImage} style={styles.backgroundImage} />
+    <Image height={300} imgKey={user.backgroundImage} style={styles.backgroundImage} />
     <View style={styles.headerContent}>
-      <S3Image imgKey={user.image} style={styles.avatar} />
+      <Image width={100} imgKey={user.image} style={styles.avatar} />
 
       <Text>{user.bio}</Text>
 
       <View style={styles.followers}>
         {user.followedBy.map((follower, index) => (
-          <S3Image
+          <Image
             key={index}
             imgKey={follower.image}
             style={styles.followerImage}
+            height={35}
+            width={35}
           />
         ))}
       </View>
@@ -35,7 +41,7 @@ export default function App() {
       contentContainerStyle={{ gap: 1 }}
       columnWrapperStyle={{ gap: 1 }}
       renderItem={({ item }) => (
-        <S3Image imgKey={item.image} style={styles.postImage} />
+        <Image imgKey={item.image} style={styles.postImage} />
       )}
     />
   );

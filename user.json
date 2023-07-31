@@ -22,79 +22,49 @@
   ],
   "posts": [
     {
-      "image": "high-res/1.jpg"
+      "image": "high-res/image-01.png"
     },
     {
-      "image": "high-res/2.jpg"
+      "image": "high-res/image-02.png"
     },
     {
-      "image": "high-res/3.jpg"
+      "image": "high-res/image-03.png"
     },
     {
-      "image": "high-res/4.jpg"
+      "image": "high-res/image-04.png"
     },
     {
-      "image": "high-res/5.jpg"
+      "image": "high-res/image-05.png"
     },
     {
-      "image": "high-res/6.jpg"
+      "image": "high-res/image-06.png"
     },
     {
-      "image": "high-res/7.jpg"
+      "image": "high-res/image-07.png"
     },
     {
-      "image": "high-res/8.jpg"
+      "image": "high-res/image-08.png"
     },
     {
-      "image": "high-res/9.JPG"
+      "image": "high-res/image-09.png"
     },
     {
-      "image": "high-res/10.jpg"
+      "image": "high-res/image-10.png"
     },
     {
-      "image": "high-res/11.jpg"
+      "image": "high-res/image-11.png"
     },
     {
-      "image": "high-res/12.jpg"
+      "image": "high-res/image-12.png"
     },
     {
-      "image": "high-res/13.jpg"
+      "image": "high-res/image-13.png"
     },
     {
-      "image": "high-res/14.jpg"
+      "image": "high-res/image-14.png"
     },
     {
-      "image": "high-res/15.jpg"
-    },
-    {
-      "image": "high-res/16.jpg"
-    },
-    {
-      "image": "high-res/17.jpg"
-    },
-    {
-      "image": "high-res/18.jpg"
-    },
-    {
-      "image": "high-res/19.jpg"
-    },
-    {
-      "image": "high-res/20.jpg"
-    },
-    {
-      "image": "high-res/21.jpg"
-    },
-    {
-      "image": "high-res/22.jpg"
-    },
-    {
-      "image": "high-res/23.jpg"
-    },
-    {
-      "image": "high-res/24.jpg"
-    },
-    {
-      "image": "high-res/25.jpg"
+      "image": "high-res/image-15.png"
     }
   ]
 }
